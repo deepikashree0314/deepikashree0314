@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DEEPIKA SHREE S</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fshafayathossain.medium.com%2Fmy-theory-on-personal-growth-88ed9b5aaa78&psig=AOvVaw2Tj3cBSM_Tj-6JGi-NUao4&ust=1702486172810000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjC1q6tioMDFQAAAAAdAAAAABAD"
-
+<img src="C:\Users\hp\Pictures\Saved Pictures"
 - ⚡ Fun fact **- 🌐 Currently mastering HTML, CSS, and JavaScript for the frontend magic.**
 
 <h3 align="left">Connect with me:</h3>
