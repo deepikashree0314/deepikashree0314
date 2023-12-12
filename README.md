@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DEEPIKA SHREE S</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0PIISDpWw1X7DF7Ht_WIwt&ust=1702486043360000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi1k--sioMDFQAAAAAdAAAAABAE"
 - 📫 How to reach me **deepikashree0314@gmail.com**
 
 - ⚡ Fun fact **- 🌐 Currently mastering HTML, CSS, and JavaScript for the frontend magic.**
